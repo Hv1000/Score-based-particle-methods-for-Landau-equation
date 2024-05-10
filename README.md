@@ -8,5 +8,5 @@ $$
 
 with collison kernel
 $$
-A(v) = \frac{1}{16} 
+A(v) = (|v|^2 I_d - v \otimes v)
 $$
