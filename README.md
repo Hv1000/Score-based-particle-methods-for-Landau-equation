@@ -12,4 +12,4 @@ $$
 A(v) = \frac{1}{16}  (|v|^2 I_2 - v \otimes v)
 $$
 
-The code is written by PyTorch 2.0.
+The code is based on PyTorch 2.0.
