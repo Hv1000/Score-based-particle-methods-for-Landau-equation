@@ -10,7 +10,7 @@ class Particle():
         self.score = score
         self.score_jac = score_jac
 
-        self.d = d
+        self.d = d #2
         self.C = C #1/16
 
 
