@@ -11,3 +11,5 @@ with collison kernel
 $$
 A(v) = \frac{1}{16}  (|v|^2 I_2 - v \otimes v)
 $$
+
+The code is written by Pytorch 2.0.
