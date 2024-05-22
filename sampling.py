@@ -7,8 +7,6 @@ class Sampling():
         self.t = t
         if seed==None:
             np.random.seed(seed)
-        # 10000: 23
-        #37: 5000
 
     def target_distribution(self, sample):
         vx = sample[0]
