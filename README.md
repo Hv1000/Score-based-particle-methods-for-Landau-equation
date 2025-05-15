@@ -1,6 +1,6 @@
 # A score-based particle method for homogeneous Landau equation
 
-This repository provides an efficient implementation in Pytorch of the score-based particle method for solving the homogeneous Landau equation in plasmas.
+This repository provides an efficient implementation in Pytorch of the score-based particle method for solving the homogeneous Landau equation in collisional plasmas.
 
 ## Reference
 Paper: [A score-based particle method for homogeneous Landau equation](https://doi.org/10.1016/j.jcp.2025.114053), Journal of Computational Physics, 2025. 
