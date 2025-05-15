@@ -1,5 +1,7 @@
 # A score-based particle method for homogeneous Landau equation
 
+Pytorch implementation of our continuous normalizing flows regularized with optimal transport. 
+
 This code is for solving the 2D BKW solution for Maxwell molecules:
 
 $$
@@ -11,5 +13,3 @@ with collision kernel
 $$
 A(v) = \frac{1}{16}  (|v|^2 I_2 - v \otimes v)
 $$
-
-The code is mainly based on PyTorch 2.0.
