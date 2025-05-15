@@ -2,10 +2,10 @@
 
 Pytorch implementation of score-based particle method for homogeneous Landau equation.
 
-## Associated Publication
+## Reference
 Paper: [A score-based particle method for homogeneous Landau equation](https://doi.org/10.1016/j.jcp.2025.114053), Journal of Computational Physics, 2025. 
 
-## Code Explanation
+## Usage
 This code is for solving the 2D BKW solution of homogeneous Landau equation:
 
 $$
