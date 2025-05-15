@@ -1,6 +1,6 @@
 # A score-based particle method for homogeneous Landau equation
 
-Pytorch implementation of score-based particle method for homogeneous Landau equation. The implementation is built on Pytorch 2.0
+Pytorch implementation of score-based particle method for homogeneous Landau equation.
 
 ## Reference
 Paper: [A score-based particle method for homogeneous Landau equation](https://doi.org/10.1016/j.jcp.2025.114053), Journal of Computational Physics, 2025. 
