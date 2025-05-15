@@ -44,13 +44,13 @@ class ScoreMatching():
         if use_newNN:
             self.net = MLP(dim_in, dim_out, dim_hidden, num_layers).to(device)
         else:
-            self.net = torch.load('model/model.pth', map_location='cuda')
+            self.net = torch.load('model.pth', map_location='cuda')
     
     def s_net(self, v):
         return self.net(v)
     
     def save_model(self):
-        return torch.save(self.net, 'model/model.pth')
+        return torch.save(self.net, 'model.pth')
     
 
     '''L2 score matching'''
