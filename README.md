@@ -1,6 +1,9 @@
 # A score-based particle method for homogeneous Landau equation
 
-Pytorch implementation of our continuous normalizing flows regularized with optimal transport. 
+Pytorch implementation of score-based particle method for homogeneous Landau equation.
+
+## Associated Publication
+Paper: 
 
 This code is for solving the 2D BKW solution for Maxwell molecules:
 
