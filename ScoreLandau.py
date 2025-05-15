@@ -268,7 +268,7 @@ def main():
         H[nt+1] = np.mean(np.log(f))
     
 
-    ## kernel density estimation
+    ## Visualization by kernel density estimation
     L = 4
     Nr = 100
     h = 2*L/Nr
