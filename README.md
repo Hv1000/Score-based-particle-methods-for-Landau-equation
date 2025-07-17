@@ -25,6 +25,6 @@ author = {Yan Huang and Li Wang},
 ```
 
 ## Usage
-The code "ScoreLandau_BKW.py" is for solving the 2D BKW solution of the homogeneous Landau equation (example 1 in [1])
+The code "ScoreLandau_BKW.py" is for solving the 2D BKW solution (example 1 in [1]).
 
-The code "ScoreLandau_Coulomb.py" is for solving the 2D anisotropic solution with the Coulomb potential (example 3 in [1])
+The code "ScoreLandau_Coulomb.py" is for solving the 2D anisotropic solution with the Coulomb potential (example 3 in [1]).
