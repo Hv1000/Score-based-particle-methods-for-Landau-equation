@@ -21,12 +21,14 @@ author = {Yan Huang and Li Wang},
 ```
 
 ## Usage
-The code "ScoreLandau_BKW" is for solving the 2D BKW solution of the homogeneous Landau equation:
+The code "ScoreLandau_BKW.py" is for solving the 2D BKW solution of the homogeneous Landau equation:
 
 $$
 \partial_t f(v) = \nabla_v \cdot \int_{\mathbb{R}^d} A(v-v_* ) f(v) f(v_* ) (\nabla_v \log f(v) - \nabla_{v_* } \log f(v_* ) ) dv_*
 $$
-with collision kernel
+with the collision kernel
 $$
 A(v) = \frac{1}{16} (|v|^2 I_2 - v \otimes v)
 $$
+
+The code "ScoreLandau_Coulomb.py" is for solving the 2D anisotropic solution with the Coulomb potential:
